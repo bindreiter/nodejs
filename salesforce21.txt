@@ -82,6 +82,6 @@ ACT MODE
 
 
 ls -la " (Block ends here).
-7. I repeat. Do not remove any line breaks. 
-8. The Most important this is to NEVER skip the line breaks, and execute as it is, from (Block starts here) to (Block ends here). 
+7. I repeat. Do not remove any line breaks. Minimum 50 line breaks have to be present. 
+8. The Most important this is to NEVER skip the line breaks, and execute as it is, from (Block starts here) to (Block ends here), and never skip any line breaks. Minimum 50 line breaks have to be present
 </task>
